@@ -1,4 +1,4 @@
-Simple Spell Checker Using GingerIT
+
 
 Simple Spell and Grammar checking tool with StreamLit UI.
 
